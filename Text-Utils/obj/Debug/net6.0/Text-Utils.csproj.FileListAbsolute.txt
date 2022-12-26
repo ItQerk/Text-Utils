@@ -1,0 +1,17 @@
+C:\Users\ItQerk\Projekty\Text-Utils\Text-Utils\bin\Debug\net6.0\Text-Utils.exe
+C:\Users\ItQerk\Projekty\Text-Utils\Text-Utils\bin\Debug\net6.0\Text-Utils.deps.json
+C:\Users\ItQerk\Projekty\Text-Utils\Text-Utils\bin\Debug\net6.0\Text-Utils.runtimeconfig.json
+C:\Users\ItQerk\Projekty\Text-Utils\Text-Utils\bin\Debug\net6.0\Text-Utils.dll
+C:\Users\ItQerk\Projekty\Text-Utils\Text-Utils\bin\Debug\net6.0\Text-Utils.pdb
+C:\Users\ItQerk\Projekty\Text-Utils\Text-Utils\bin\Debug\net6.0\Colorful.Console.dll
+C:\Users\ItQerk\Projekty\Text-Utils\Text-Utils\obj\Debug\net6.0\Text-Utils.csproj.AssemblyReference.cache
+C:\Users\ItQerk\Projekty\Text-Utils\Text-Utils\obj\Debug\net6.0\Text-Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ItQerk\Projekty\Text-Utils\Text-Utils\obj\Debug\net6.0\Text-Utils.AssemblyInfoInputs.cache
+C:\Users\ItQerk\Projekty\Text-Utils\Text-Utils\obj\Debug\net6.0\Text-Utils.AssemblyInfo.cs
+C:\Users\ItQerk\Projekty\Text-Utils\Text-Utils\obj\Debug\net6.0\Text-Utils.csproj.CoreCompileInputs.cache
+C:\Users\ItQerk\Projekty\Text-Utils\Text-Utils\obj\Debug\net6.0\Text-Utils.csproj.CopyComplete
+C:\Users\ItQerk\Projekty\Text-Utils\Text-Utils\obj\Debug\net6.0\Text-Utils.dll
+C:\Users\ItQerk\Projekty\Text-Utils\Text-Utils\obj\Debug\net6.0\refint\Text-Utils.dll
+C:\Users\ItQerk\Projekty\Text-Utils\Text-Utils\obj\Debug\net6.0\Text-Utils.pdb
+C:\Users\ItQerk\Projekty\Text-Utils\Text-Utils\obj\Debug\net6.0\Text-Utils.genruntimeconfig.cache
+C:\Users\ItQerk\Projekty\Text-Utils\Text-Utils\obj\Debug\net6.0\ref\Text-Utils.dll
