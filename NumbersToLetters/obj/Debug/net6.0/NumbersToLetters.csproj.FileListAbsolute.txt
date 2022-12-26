@@ -1,0 +1,17 @@
+C:\Users\ItQerk\Projekty\NumbersToLetters\NumbersToLetters\bin\Debug\net6.0\NumbersToLetters.exe
+C:\Users\ItQerk\Projekty\NumbersToLetters\NumbersToLetters\bin\Debug\net6.0\NumbersToLetters.deps.json
+C:\Users\ItQerk\Projekty\NumbersToLetters\NumbersToLetters\bin\Debug\net6.0\NumbersToLetters.runtimeconfig.json
+C:\Users\ItQerk\Projekty\NumbersToLetters\NumbersToLetters\bin\Debug\net6.0\NumbersToLetters.dll
+C:\Users\ItQerk\Projekty\NumbersToLetters\NumbersToLetters\bin\Debug\net6.0\NumbersToLetters.pdb
+C:\Users\ItQerk\Projekty\NumbersToLetters\NumbersToLetters\obj\Debug\net6.0\NumbersToLetters.csproj.AssemblyReference.cache
+C:\Users\ItQerk\Projekty\NumbersToLetters\NumbersToLetters\obj\Debug\net6.0\NumbersToLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ItQerk\Projekty\NumbersToLetters\NumbersToLetters\obj\Debug\net6.0\NumbersToLetters.AssemblyInfoInputs.cache
+C:\Users\ItQerk\Projekty\NumbersToLetters\NumbersToLetters\obj\Debug\net6.0\NumbersToLetters.AssemblyInfo.cs
+C:\Users\ItQerk\Projekty\NumbersToLetters\NumbersToLetters\obj\Debug\net6.0\NumbersToLetters.csproj.CoreCompileInputs.cache
+C:\Users\ItQerk\Projekty\NumbersToLetters\NumbersToLetters\obj\Debug\net6.0\NumbersToLetters.dll
+C:\Users\ItQerk\Projekty\NumbersToLetters\NumbersToLetters\obj\Debug\net6.0\refint\NumbersToLetters.dll
+C:\Users\ItQerk\Projekty\NumbersToLetters\NumbersToLetters\obj\Debug\net6.0\NumbersToLetters.pdb
+C:\Users\ItQerk\Projekty\NumbersToLetters\NumbersToLetters\obj\Debug\net6.0\NumbersToLetters.genruntimeconfig.cache
+C:\Users\ItQerk\Projekty\NumbersToLetters\NumbersToLetters\obj\Debug\net6.0\ref\NumbersToLetters.dll
+C:\Users\ItQerk\Projekty\NumbersToLetters\NumbersToLetters\bin\Debug\net6.0\Colorful.Console.dll
+C:\Users\ItQerk\Projekty\NumbersToLetters\NumbersToLetters\obj\Debug\net6.0\NumbersToLetters.csproj.CopyComplete
